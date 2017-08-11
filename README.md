@@ -1,2 +1,2 @@
 # hello-word
-这是我第一次用github
+图片进行剪裁插件
